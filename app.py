@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Coded by - WebDux (vakh0) -
+# Coded by - WebDux (vakh0) -
 
 from flask import Flask, render_template, request, json
 
